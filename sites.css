@@ -64,7 +64,7 @@
 
 body {
     
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),     url(img/Moon close up.jpg);
+    background-image: url(img/Earth-MoonBlurry.jpg);
 }
 top {
     background-color: gray;
