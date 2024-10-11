@@ -236,8 +236,9 @@ body {font-family: Verdana, sans-serif;}
 
 .days {
   padding: 10px 0;
-  background: #eee;
+
   margin: 0;
+
 }
 
 .days li {
