@@ -63,8 +63,8 @@
     position: relative; }
 
 body {
-    background-color: lightblue;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),     url(img/Moon close up.jpg);
+    
+    background-image: url("img/Moon close up.jpg");
 }
 top {
     background-color: gray;
