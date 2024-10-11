@@ -64,7 +64,7 @@
 
 body {
     
-    background-image: url("img/Moon close up.jpg");
+    background-image: url("img/Moon.Close.Up.jpg");
 }
 top {
     background-color: gray;
@@ -74,7 +74,7 @@ top {
     width: 90%;
     
     opacity: 0.9;
-    background-color: #F9Dabc;
+    background-color: #a1Ffff;
     border-radius: 10px;
     margin: 0 auto;
     align-items: center;
